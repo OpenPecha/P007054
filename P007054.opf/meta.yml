@@ -1,25 +1,28 @@
-id: opecha:P007054
+id: P007054
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W22160
   title: གྲུ་གུ་གོ་རྫོང་།
-  volume:
+  author: ''
+  volumes:
     40aca1fcc12d4522a006f776470a96dc:
       image_group_id: I1KG18122
       title: Volume 1 of gru gu go rdzong /
       volume_number: 1
       total_pages: 898
+      base_file: v001.txt
     0e0a6442224f4772bf9696a77ccd5246:
       image_group_id: I1KG18123
       title: Volume 2 of gru gu go rdzong /
       volume_number: 2
       total_pages: 572
+      base_file: v002.txt
     2637865c55134020811c0819ca76a253:
       image_group_id: I1KG18124
       title: Volume 3 of gru gu go rdzong /
       volume_number: 3
       total_pages: 258
-  author: ''
+      base_file: v003.txt
 ebook_metadata:
   title: གྲུ་གུ་གོ་རྫོང་།
   author: ''
