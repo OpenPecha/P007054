@@ -5,21 +5,24 @@ source_metadata:
   title: གྲུ་གུ་གོ་རྫོང་།
   author: ''
   volumes:
-    fa0a6cdcfb8e4caf8a52b3051c892129:
+    40aca1fcc12d4522a006f776470a96dc:
       image_group_id: I1KG18122
-      title: ''
+      title: Volume 1 of gru gu go rdzong /
       volume_number: 1
       total_pages: 898
-    0913399cdb854746ac622dd744220aed:
+      base_file: v001.txt
+    0e0a6442224f4772bf9696a77ccd5246:
       image_group_id: I1KG18123
-      title: ''
+      title: Volume 2 of gru gu go rdzong /
       volume_number: 2
       total_pages: 572
-    57be0efd7e9c42278c89b348c096c41b:
+      base_file: v002.txt
+    2637865c55134020811c0819ca76a253:
       image_group_id: I1KG18124
-      title: ''
+      title: Volume 3 of gru gu go rdzong /
       volume_number: 3
       total_pages: 258
+      base_file: v003.txt
 ebook_metadata:
   title: གྲུ་གུ་གོ་རྫོང་།
   author: ''
